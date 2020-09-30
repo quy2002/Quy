@@ -18,6 +18,7 @@ int main(){
             }
         }
     }
+    printf("Mang sau khi nhap gia tri:");
     for (int i=0; i<n; i++) {
         printf("%5d", arr[i]);
     }
